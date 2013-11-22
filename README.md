@@ -3,4 +3,4 @@
 
 POO Programmation Orientée Objet
 
-Lien : http://e1296005.webdev.cmaisonneuve.qc.ca/Blog_avec_PHP_et_mysqli/contenu.php
+Lien : http://e1296005.webdev.cmaisonneuve.qc.ca/Blog_multi-usagers_avec_mots_cles/contenu.php
