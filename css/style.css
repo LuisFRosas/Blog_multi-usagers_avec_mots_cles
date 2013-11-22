@@ -1,0 +1,45 @@
+p {
+	text-align:justify;
+}
+span {
+
+}
+#container {
+	background-color:#D1D1D1;
+	margin:0 auto;
+	width:900px;
+}
+#colGauche {
+	width:170px;
+	background-color:#666666;
+	float:left;
+	height:auto;
+	margin-right:20px;
+	padding:15px;
+}
+#colDroite {
+	width:650px;
+	float:left;
+	background-color:#999999;
+	padding:15px;
+}
+#head{
+	background-color:#888;
+	height:75px;
+	width:100%;
+	margin:15px 0;
+	text-align:center;
+	padding-top:12px;
+}
+.hidden {
+	color:transparent;
+}
+.motcle {
+	background-color:#ff0099;
+	border-radius:8px;
+	padding:2px 5px;
+	margin: 0 5px;
+}
+.loginHidden {
+	display:none;
+}
